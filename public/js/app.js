@@ -1,4 +1,4 @@
-console.log('Client side java scrip file is loaded!')
+
 
 
 //spajanje beckend side sa client side
